@@ -2,8 +2,8 @@
 const bools: boolean[] = [];
 
 type Point = {
-  x: number,
-  y: number
+  x: number;
+  y: number;
 };
 
 const coords: Point[] = [];

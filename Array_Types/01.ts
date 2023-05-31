@@ -11,4 +11,3 @@ ageList[0] = 99;
 
 // error
 // ageList[0] = 'asd'
-
